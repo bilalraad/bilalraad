@@ -37,4 +37,4 @@
 [twitter]: https://twitter.com/bilal_rad
 [instagram]: https://instagram.com/bilal_raad
 [linkedin]: https://linkedin.com/in/bilal-rad
-[telegram]: t.me/bilal_rad
+[telegram]: https://t.me/bilal_rad
