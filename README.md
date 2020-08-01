@@ -35,6 +35,6 @@
 [website]: https://genx-iq.com/
 [genxTodo]: https://github.com/AliAlsed/genx-todo
 [twitter]: https://twitter.com/bilal_rad
-[instagram]: https://instagram.com/bilal_raad
+[instagram]: https://instagram.com/bilal_rad
 [linkedin]: https://linkedin.com/in/bilal-rad
 [telegram]: https://t.me/bilal_rad
