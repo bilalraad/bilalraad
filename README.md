@@ -6,7 +6,6 @@
 - 🥅 2021 Goals: Learn how to make APIs
 - ⚡ Fun fact: I'm a cat enthusiast
 ### Connect with me:
-
 [<img align="left" alt="genx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Bilal Raad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,9 +30,9 @@
 
 <img align="left" alt="Bilal Raad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalraad&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://genx-iq.com/
-[dna]: https://dnascholarship.com/
-[twitter]: https://twitter.com/bilal_rad
-[instagram]: https://instagram.com/bilal_rad
-[linkedin]: https://linkedin.com/in/bilal-rad
-[telegram]: https://t.me/bilal_rad
+[website]: https://genx-iq.com/?target=_blank
+[dna]: https://dnascholarship.com/?target=_blank
+[twitter]: https://twitter.com/bilal_rad?target=_blank
+[instagram]: https://instagram.com/bilal_rad?target=_blank
+[linkedin]: https://linkedin.com/in/bilal-rad?target=_blank
+[telegram]: https://t.me/bilal_rad?target=_blank
