@@ -1,10 +1,10 @@
 ### Hi there, I'm Bilal 👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a [Todo App][genxTodo]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn how to make databases and APIs
-- ⚡ Fun fact: I love to read books and watch anime
+- 🔭 I’m currently learning Web devlopment with [DNA Scholarship][dna]!
+- 🌱 I love to learn everything 😆
+- 🥅 2021 Goals: Learn how to make APIs
+- ⚡ Fun fact: I a cat enthusiast
 
 ### Connect with me:
 
@@ -33,7 +33,7 @@
 <img align="left" alt="Bilal Raad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalraad&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://genx-iq.com/
-[genxTodo]: https://github.com/AliAlsed/genx-todo
+[dna]: https://dnascholarship.com/
 [twitter]: https://twitter.com/bilal_rad
 [instagram]: https://instagram.com/bilal_rad
 [linkedin]: https://linkedin.com/in/bilal-rad
