@@ -5,7 +5,6 @@
 - 🌱 I love to learn everything 😆
 - 🥅 2021 Goals: Learn how to make APIs
 - ⚡ Fun fact: I'm a cat enthusiast
-
 ### Connect with me:
 
 [<img align="left" alt="genx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
