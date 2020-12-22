@@ -1,16 +1,19 @@
 ### Hi there, I'm Bilal 👋
 
 ## I'm a Student and Developer!
+
 - 🔭 I’m currently learning Web devlopment with [DNA Scholarship][dna]!
 - 🌱 I love to learn everything 😆
 - 🥅 2021 Goals: Learn how to make APIs
 - ⚡ Fun fact: I'm a cat enthusiast
+
 ### Connect with me:
-[<img align="left" alt="genx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Bilal Raad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Bilal Raad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Bilal Raad | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
+
+<a href="https://genx-iq.com/" target="_blank"><img align="left" alt="genx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
+<a href="https://twitter.com/bilal_rad" target="_blank"><img align="left" alt="Bilal Raad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/bilal-rad" target="_blank"><img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/bilal_rad" target="_blank"><img align="left" alt="Bilal Raad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://t.me/bilal_rad" target="_blank"><img align="left" alt="Bilal Raad | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" /></a>
 
 <br />
 
@@ -22,7 +25,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
 <br />
 <br />
 
@@ -30,9 +32,4 @@
 
 <img align="left" alt="Bilal Raad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalraad&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://genx-iq.com/?target=_blank
-[dna]: https://dnascholarship.com/?target=_blank
-[twitter]: https://twitter.com/bilal_rad?target=_blank
-[instagram]: https://instagram.com/bilal_rad?target=_blank
-[linkedin]: https://linkedin.com/in/bilal-rad?target=_blank
-[telegram]: https://t.me/bilal_rad?target=_blank
+[dna]: https://dnascholarship.com/
