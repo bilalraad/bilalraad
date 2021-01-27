@@ -1,11 +1,13 @@
 ### Hi there, I'm Bilal 👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently learning Web devlopment with [DNA Scholarship][dna]!
+
 - 🌱 I love to learn everything 😆
 - 🥅 2021 Goals: Learn how to make APIs
 - ⚡ Fun fact: I'm a cat enthusiast
+
 ### Connect with me:
+
 [<img align="left" alt="genx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Bilal Raad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +23,6 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flutter/flutter.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 
 <br />
 <br />
