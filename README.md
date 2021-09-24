@@ -1,14 +1,13 @@
 ### Hi there, I'm Bilal 👋
 
-## I'm a Student and Developer!
+## I'm a Student and Developer
 
 - 🌱 I love to learn everything 😆
-- 🥅 2021 Goals: Learn how to make APIs
+- 👨‍🏫 Currently teaching a flutter course
 - ⚡ Fun fact: I'm a cat enthusiast
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="genx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Bilal Raad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bilal Raad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -16,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png" />
@@ -31,8 +30,6 @@
 
 <img align="left" alt="Bilal Raad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalraad&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://genx-iq.com/
-[dna]: https://dnascholarship.com/
 [twitter]: https://twitter.com/bilal_rad
 [instagram]: https://instagram.com/bilal_rad
 [linkedin]: https://linkedin.com/in/bilal-rad
