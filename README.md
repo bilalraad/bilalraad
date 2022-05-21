@@ -3,7 +3,7 @@
 ## I'm a Student and Developer
 
 - 🌱 I love to learn everything 😆
-- 👨‍🏫 Currently teaching a flutter course
+- 👨‍🏫 Currently learning a laravel
 - ⚡ Fun fact: I'm a cat enthusiast
 
 ### Connect with me
