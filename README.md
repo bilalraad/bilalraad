@@ -3,7 +3,7 @@
 ## I'm a Student and Developer
 
 - 🌱 I love to learn everything 😆
-- 👨‍🏫 Currently learning a laravel
+- 👨‍🏫 Currently working with Earthlink.
 - ⚡ Fun fact: I'm a cat enthusiast
 
 ### Connect with me
