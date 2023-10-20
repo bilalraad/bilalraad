@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/ar/thumb/9/9f/Twitter_bird_logo_2012.svg/950px-Twitter_bird_logo_2012.svg.png" />][linkedin]
+[<img align="left" alt="Bilal Raad | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="Bilal Raad | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" />][telegram]
 
 <br />
