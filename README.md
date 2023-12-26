@@ -1,6 +1,6 @@
 ### Hi there, I'm Bilal 👋
 
-## I'm a Student and Developer
+## I'm a Flutter Developer
 
 - 🌱 I love to learn everything 😆
 - 👨‍🏫 Currently working with Earthlink.
