@@ -3,7 +3,7 @@
 ## I'm a Flutter Developer
 
 - 🌱 I love to learn everything 😆
-- 👨‍🏫 Currently working with Earthlink.
+- 👨‍🏫 Currently working with Starsphere.
 - ⚡ Fun fact: I'm a cat enthusiast
 
 ### Connect with me
